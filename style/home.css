@@ -14,3 +14,8 @@ width: 100%;
 height: 100%;
 background-color: darkblue;
 }
+.hover::after{
+    background-color: aqua !important;
+    width: auto;
+    position: absolute;
+}
